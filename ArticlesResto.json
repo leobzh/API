@@ -9,7 +9,7 @@
         "titre": "Matcha",
         "description": "Une poudre de thé vert japonais finement moulue, utilisée pour des infusions et pâtisseries.",
         "imgPath": "https://assets.afcdn.com/recipe/20210125/117614_w1024h576c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp",
-        "type": "boisson"
+        "type": "boisson/dessert"
     },
     {
         "titre": "Ramen",
