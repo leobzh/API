@@ -1,14 +1,22 @@
 [
   {
     "pseudo" : "Test",
-    "email" : "test"
+    "email" : "test",
+    "mdp" : "test"
   },
   {
     "pseudo" : "Test2",
-    "email" : "test2"
+    "email" : "test2",
+    "mdp" : "test2"
   },
   {
     "pseudo" : "Test3",
-    "email" : "test3"
+    "email" : "test3",
+    "mdp" : "test3"
+  },
+  {
+    "pseudo" : "Test4",
+    "email" : "test4",
+    "mdp" : "test4"
   }
 ]
