@@ -3,162 +3,189 @@
         "titre": "Sushi",
         "description": "Un plat japonais composé de riz vinaigré accompagné de poisson cru, fruits de mer ou légumes.",
         "imgPath": "https://offloadmedia.feverup.com/nantessecrete.com/wp-content/uploads/2022/07/08153633/sushi-599721_1280-1024x768.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 12
     },
     {
         "titre": "Matcha",
         "description": "Une poudre de thé vert japonais finement moulue, utilisée pour des infusions et pâtisseries.",
         "imgPath": "https://assets.afcdn.com/recipe/20210125/117614_w1024h576c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp",
-        "type": "boisson/dessert"
+        "type": "boisson/dessert",
+        "prix": 5
     },
     {
         "titre": "Ramen",
         "description": "Un bouillon savoureux agrémenté de nouilles, de viande (porc, poulet) et de légumes.",
         "imgPath": "https://img.cuisineaz.com/660x660/2018/12/30/i145407-ramen-au-poulet.jpeg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 10
     },
     {
         "titre": "Takoyaki",
         "description": "Boulettes de pâte garnies de morceaux de poulpe, cuites dans un moule spécial.",
         "imgPath": "https://ramekin.fr/wp-content/uploads/2024/04/Takoyaki.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 7
     },
     {
         "titre": "Tempura",
         "description": "Beignets légers et croustillants à base de légumes ou de fruits de mer.",
         "imgPath": "https://www.nishikidori.com/img/cms/2025/Tempura%20recette.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 9
     },
     {
         "titre": "Okonomiyaki",
         "description": "Une sorte de crêpe japonaise garnie de chou, viande, fruits de mer et sauces.",
         "imgPath": "https://ramekin.fr/wp-content/uploads/2024/04/Okonomiyaki.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 8
     },
     {
         "titre": "Onigiri",
         "description": "Boulettes de riz triangulaires souvent garnies de poisson, de prune salée ou d'algues.",
         "imgPath": "https://assets.afcdn.com/recipe/20131025/2099_w1024h1024c1cx1872cy2808.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 3
     },
     {
         "titre": "Tonkatsu",
         "description": "Escalope de porc panée et frite, servie avec une sauce épaisse et du chou.",
         "imgPath": "https://www.nishikidori.com/img/cms/2025/Tonkatsu%20recette%20japonaise.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 11
     },
     {
         "titre": "Mochi",
         "description": "Petite pâtisserie japonaise à base de riz gluant, souvent fourrée à la pâte de haricot rouge.",
         "imgPath": "https://blog.lemarchejaponais.fr/wp-content/uploads/2021/09/mochi-desset-japonais.jpg",
-        "type": "dessert"
+        "type": "dessert",
+        "prix": 4
     },
     {
         "titre": "Yakitori",
         "description": "Brochettes de poulet grillées, marinées dans une sauce sucrée-salée.",
         "imgPath": "https://www.asianmarket.fr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/i/file_6_34.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 6
     },
     {
         "titre": "Udon",
         "description": "Gros nouilles épaisses servies chaudes ou froides dans un bouillon ou sautées.",
         "imgPath": "https://roppongi.fr/wp-content/uploads/udon_noodles.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 9
     },
     {
         "titre": "Gyoza",
         "description": "Raviolis japonais grillés ou bouillis, garnis de viande et de légumes.",
         "imgPath": "https://www.idealwine.net/wp-content/uploads/sites/4/2016/01/Gyozas-recette-de-la-semaine.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 6
     },
     {
         "titre": "Salade de Chou",
         "description": "Une salade fraîche à base de chou, souvent servie en accompagnement.",
         "imgPath": "https://static.750g.com/images/1200-675/fc465e486649284fb9ae4242d9d8f6fc/salade-de-chou-ok.jpg",
-        "type": "accompagnement"
+        "type": "accompagnement",
+        "prix": 4
     },
     {
         "titre": "Edamame",
         "description": "Jeunes gousses de soja bouillies et salées, souvent servies en entrée.",
         "imgPath": "https://img-3.journaldesfemmes.fr/u2rYN67qzjxfWZJ83tITpTBMTWg=/1500x/smart/c8afad1da3254c26b133b4a52a67a333/ccmcms-jdf/39613318.jpg",
-        "type": "entrée"
+        "type": "entrée",
+        "prix": 3
     },
     {
         "titre": "Miso Soup",
         "description": "Soupe traditionnelle japonaise à base de pâte de soja fermentée.",
         "imgPath": "https://www.japanesecooking101.com/wp-content/uploads/2012/03/IMG_3950.jpeg",
-        "type": "entrée"
+        "type": "entrée",
+        "prix": 3
     },
     {
         "titre": "Saké",
         "description": "Boisson alcoolisée traditionnelle japonaise, souvent servie chaude ou froide.",
         "imgPath": "https://fleurdesushi.fr/wp-content/uploads/2023/02/bouteilles-de-sake%CC%81-japonais.jpg",
-        "type": "boisson"
+        "type": "boisson",
+        "prix": 6
     },
     {
         "titre": "Dorayaki",
         "description": "Dessert japonais constitué de deux petites pancakes fourrées de pâte de haricot rouge sucrée.",
         "imgPath": "https://marcwiner.com/wp-content/uploads/2024/02/dorayaki-en-tete.jpg",
-        "type": "dessert"
+        "type": "dessert",
+        "prix": 4
     },
     {
         "titre": "Yakisoba",
         "description": "Nouilles sautées avec des légumes et de la viande, souvent servies comme plat principal.",
         "imgPath": "https://ramekin.fr/wp-content/uploads/2024/04/Yakisoba.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 9
     },
     {
         "titre": "Taiyaki",
         "description": "Gaufre en forme de poisson fourrée de pâte de haricot rouge sucrée.",
         "imgPath": "https://www.justonecookbook.com/wp-content/uploads/2023/12/Crispy-Taiyaki-4937-I.jpg",
-        "type": "dessert"
+        "type": "dessert",
+        "prix": 4
     },
     {
         "titre": "Chawanmushi",
         "description": "Flan salé à base d'œufs, de dashi et de divers ingrédients comme des champignons et des crevettes.",
         "imgPath": "https://www.justonecookbook.com/wp-content/uploads/2022/09/Chawanmushi-9784-I.jpg",
-        "type": "accompagnement"
+        "type": "accompagnement",
+        "prix": 5
     },
     {
         "titre": "Kakigori",
         "description": "Dessert rafraîchissant à base de glace pilée arrosée de sirop sucré.",
         "imgPath": "https://s3.fr-par.scw.cloud/sushi-robots/2023/07/Kakigori-glace-300x225.png",
-        "type": "dessert"
+        "type": "dessert",
+        "prix": 5
     },
     {
         "titre": "Ochazuke",
         "description": "Riz vert recouvert de thé vert chaud, souvent accompagné de divers condiments.",
         "imgPath": "https://www.japanesecooking101.com/wp-content/uploads/2014/01/IMG_7897.jpg",
-        "type": "plat"
+        "type": "plat",
+        "prix": 6
     },
     {
         "titre": "Riz Blanc",
         "description": "Riz cuit à la vapeur, souvent servi en accompagnement de divers plats.",
         "imgPath": "https://www.japanesecooking101.com/wp-content/uploads/2013/04/IMG_4461.jpeg",
-        "type": "accompagnement"
+        "type": "accompagnement",
+        "prix": 2
     },
     {
         "titre": "Thé Vert",
         "description": "Boisson traditionnelle japonaise, souvent servie chaude.",
         "imgPath": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2018/07/Ryokucha-1024x683.jpg",
-        "type": "boisson"
+        "type": "boisson",
+        "prix": 3
     },
     {
         "titre": "Soda au Yuzu",
         "description": "Boisson gazeuse au goût d'agrumes japonais, rafraîchissante et légère.",
         "imgPath": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/dpmnhqtc/0a778be6-856d-42af-81da-8c037ffa9e71.jpeg",
-        "type": "boisson"
+        "type": "boisson",
+        "prix": 4
     },
     {
         "titre": "Lait de Soja",
         "description": "Boisson à base de soja, souvent consommée comme alternative au lait.",
         "imgPath": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lait-soya-soja-beans-legumineuse-Pixabay.jpg/1200px-Lait-soya-soja-beans-legumineuse-Pixabay.jpg",
-        "type": "boisson"
+        "type": "boisson",
+        "prix": 3
     },
     {
         "titre": "Jus de Fruits",
         "description": "Jus frais pressé à partir de divers fruits, parfait pour se désaltérer.",
         "imgPath": "https://i.notretemps.com/1200x0/smart/2024/09/05/jus-de-fruits-presse.jpeg",
-        "type": "boisson"
+        "type": "boisson",
+        "prix": 4
     }
 ]
