@@ -1,22 +1,6 @@
 [
   {
-    "pseudo" : "Test",
     "email" : "test",
     "password" : "test"
-  },
-  {
-    "pseudo" : "Test2",
-    "email" : "test2",
-    "password" : "test2"
-  },
-  {
-    "pseudo" : "Test3",
-    "email" : "test3",
-    "password" : "test3"
-  },
-  {
-    "pseudo" : "Test4",
-    "email" : "test4",
-    "password" : "test4"
   }
 ]
